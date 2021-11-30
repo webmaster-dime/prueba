@@ -1,0 +1,48 @@
+.bor {
+  border: red 2px solid;
+}
+.b-r {
+  border-bottom: #425463 2px dotted;
+}
+.sidebar-dark .sidebar .sidebar-header-main {
+  background: #303336;
+  border-right: 1px solid #303336;
+  height: 59px;
+}
+.title {
+  color: #425463;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.bg-thead {
+  background: #e8ebef;
+  border-bottom: #425463 1px dotted;
+}
+.bg-thead tr th {
+  color: #425463;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.b-b {
+  border-bottom: #425463 1px dotted;
+}
+.txt-table {
+  color: #3c3c3b;
+  font-size: 0.9rem;
+  font-weight: 500;
+  font-style: italic;
+}
+.btn-sec {
+  background: #fff;
+  color: #425463;
+  border: 1px solid #425463;
+  padding: 0;
+  width: 100%;
+  margin-top: 3px;
+}
+.t-foot {
+  font-weight: 600;
+  color: #425463;
+  font-size: 1rem;
+}
